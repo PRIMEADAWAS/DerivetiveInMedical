@@ -81,7 +81,11 @@ $D\space\space\space=$ Total outer axon diameter (inner diameter combine with my
 
 $$k\frac{\partial }{\partial g} (g\sqrt{(-\ln{g})}) = 0$$
 
+from $\frac{\partial f(x)g(x)}{\partial x}=f(x)\frac{\partial g(x)}{\partial x}+\frac{\partial f(x)}{\partial x}g(x)$
+
 $$g( \frac{\partial \sqrt{(-\ln{g})}}{\partial g}) + \frac{\partial g}{\partial g} (\sqrt{(-\ln{g})})= 0$$
+
+from $\frac{\partial \ln{y}}{\partial x}=\frac{1}{y}\frac{\partial {y}}{\partial x}$
 
 $$g[ \frac{1}{2\sqrt{(-\ln{g})}}\frac{\partial {(-\ln{g})}}{\partial g}] +  \sqrt{(-\ln{g})}= 0$$
 
@@ -125,7 +129,15 @@ $$g=0.60653...$$
 
 ### Referrence
 
-> Ref:Rushton W.A.H. A theory of the effects of fibre size in medullated nerve. J. Physiol. 1951;115:101–122.
+> Rushton W.A.H. A theory of the effects of fibre size in medullated nerve. J. Physiol. 1951;115:101–122.
 
-> image ref:
-> https://cdn1.byjus.com/wp-content/uploads/2020/02/STRUCTURE-OF-NEURON.png > https://www.getbodysmart.com/wp-content/uploads/2017/09/Proteins-Axon-Structure-and-Functions-Labeled-770x500.png > https://biology12plo.weebly.com/peripheral-nervous-system-pns.html
+> image referrence:
+>
+> - https://cdn1.byjus.com/wp-content/uploads/2020/02/STRUCTURE-OF-NEURON.png
+> - https://www.getbodysmart.com/wp-content/uploads/2017/09/Proteins-Axon-Structure-and-Functions-Labeled-770x500.png
+> - https://biology12plo.weebly.com/peripheral-nervous-system-pns.html
+
+<!-- | Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text | -->
