@@ -77,7 +77,7 @@ $g\space\space\space\space=\displaystyle\frac{d}{D}$ ; The ratio between inner a
 $d\space\space\space\space=$ Inner axon diameter
 $D\space\space\space=$ Total outer axon diameter (inner diameter combine with myelin sheath thickness)
 
-> To get maximum velocity we differentiate this equation to get a crescent point where the slope was zero
+> Differentiate this equation to obtain g ratio that produces maximum conduction velocity
 
 $$k\frac{\partial }{\partial g} (g\sqrt{(-\ln{g})}) = 0$$
 
@@ -117,7 +117,7 @@ $$g=0.60653...$$
 
 ### Conclusion
 
-> Taking everything into consideration, the g ratio was discovered by Rushton's experiment that uses the formula to predict axon conduction velocity to determine an optimization of the axon. G value 0.6 provide maximum speed for axon came from differentiation equation to find a crescent point. PNS requires a high speed to transmit signals from far areas but CNS has a g-ratio of 0.77 for global optimization in every part not only maximizing speed.
+> Taking everything into consideration, the g ratio was discovered by Rushton's experiment that uses the formula to predict axon conduction velocity to determine an optimization of the axon. G value 0.6 provide maximum speed for axon came from differentiation equation. PNS requires a high speed to transmit signals from far areas but CNS has a g-ratio of 0.77 for global optimization in every part not only maximizing speed.
 
 <!-- - <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " />
 - <img src="https://latex.codecogs.com/gif.latex?s=\text { sensor reading }  " />
