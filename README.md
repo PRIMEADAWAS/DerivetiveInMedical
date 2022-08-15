@@ -4,13 +4,13 @@ For assignment application of derivative in medicine -->
 
 # Axon conduction velocity and structure by Rushton Differential Equation
 
-##Introduction
+## Introduction
 
 > It was reasonable for people to think that why they need to learn mathematic in university because they think it will not use in the future, just do for an examination. However, Mathemetic have been using in every part of life but they do not notice about that due to knowledge was changed and adapted to easier to use and understand. This Document will use calculus to explain regarding medical knowledge in axon conduction velocity field.
 
-##Basic knowledge about Axon
+## Basic knowledge about Axon
 
-####Axon structure and action potential
+#### Axon structure and action potential
 
 > Neuron system separates by location in 2 areas central nervous system(CNS) and peripheral nervous system(PNS).The CNS is in brain and spinal cord. Also, PNS has long distant nerve transmit signal from extremity and organ to CNS.
 
@@ -31,7 +31,7 @@ For assignment application of derivative in medicine -->
 <img width=400 src='./images/conduct.jpg'>
 </p>
 
-####Axon conduction velocity in CNS and PNS
+#### Axon conduction velocity in CNS and PNS
 
 > G-ratio is an important value in axon they can determine function and structural myelinated optimization which g value is the ratio of inner and total outer diameter of axon include myelin sheath thickness.
 
@@ -56,7 +56,7 @@ $\frac{dx}{dt}$
 
 $\log{_a}{n}$ -->
 
-###Rushton formula
+### Rushton formula
 
 > From rushton experiment they get parameter that predict axon conduction velocity by structural diameter. In addition, they get optimal g-ratio 0.6 for the best conduction velocity
 
@@ -123,11 +123,9 @@ $$g=0.60653...$$
 - <img src="https://latex.codecogs.com/gif.latex?s=\text { sensor reading }  " />
 - <img src="https://latex.codecogs.com/gif.latex?P(s | O_t )=\text { Probability of a sensor reading value when sleep onset is observed at a time bin } t " /> -->
 
-####Referrence
+#### Referrence
 
 > Ref:Rushton W.A.H. A theory of the effects of fibre size in medullated nerve. J. Physiol. 1951;115:101–122.
 
 > image ref:
-> https://cdn1.byjus.com/wp-content/uploads/2020/02/STRUCTURE-OF-NEURON.png
-> https://www.getbodysmart.com/wp-content/uploads/2017/09/Proteins-Axon-Structure-and-Functions-Labeled-770x500.png
-> https://biology12plo.weebly.com/peripheral-nervous-system-pns.html
+> https://cdn1.byjus.com/wp-content/uploads/2020/02/STRUCTURE-OF-NEURON.png > https://www.getbodysmart.com/wp-content/uploads/2017/09/Proteins-Axon-Structure-and-Functions-Labeled-770x500.png > https://biology12plo.weebly.com/peripheral-nervous-system-pns.html
